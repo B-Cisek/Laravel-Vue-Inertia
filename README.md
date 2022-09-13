@@ -1,0 +1,2 @@
+# Laravel, Vue, Inertia - integration
+
